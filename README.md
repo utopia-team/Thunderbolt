@@ -26,7 +26,7 @@ Please note that we do not own the files above and you're responsible for any ty
 
 At the time of writing this README.md, <b>we highly recommend the user to have a motherboard with a PCIE\_16X slot in 4x mode.</b>
 
-This requirement is really important since PCIe Thunderbolt 3 cards don't work on PCIE\_16X slots (also known as `PEG` slots).
+This requirement is really important since PCIe Thunderbolt 3 cards don't work on PCIE\_16X slots (also known as `PEG` slots).<br>
 If you satisfy this requirement, then proceed by:
 
 1. Buying a <b>Gigabyte GC-Titan Ridge v2.0 add-in-card</b>
