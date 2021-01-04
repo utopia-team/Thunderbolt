@@ -21,6 +21,23 @@ Please note that we do not own the files above and you're responsible for any ty
 |ASRock Z490 ITX/ac|[`ASRock-itx/tb3-NVM50-E64Fr-CSJ-dgsga.bin`](/Firmwares/ASRock-itx%20tb3-NVM50-E64Fr-CSJ-dgsga.bin.zip)|This applies to:<ol><li>ASRock Z490 ITX/ac</li></ol><br>ASRock Z490 ITX/ac uses a single port Titan Ridge Low Power (LP) chip with device ID 0x15e7.<br>Credit: [@dgsga](https://www.tonymacx86.com/members/12060/)|
 |Asus ZenBook Pro laptop|[`ASUS_UX550GE_TB3-CASEY-MOD-1.bin`](/Firmwares/ASUS-UX550-NVM33-Elias64Fr.bin.zip)|This applies to:<ol><li>Asus ZenBook Pro UX550GE</li><li>Asus ZenBook Pro UX580GE</li></ol>|
 
+# SSDTs
+
+**Please note that the following SSDTs are taken from [https://hackindrom.zapto.org](https://hackindrom.zapto.org). We haven't found any way to contact you, so if you're the owner of those SSDTs please open an issue and we'll find a solution ^^**
+
+Choose the right SSDT for your motherboard and eventually change the `RPxx` with your `RPyy` path (you can use [IORegistryExplorer](https://github.com/utopia-team/IORegistryExplorer/) to find it). For more infos check [here](https://elitemacx86.com/threads/how-to-enable-thunderbolt-3-hotplug-on-macos.462/)
+
+- [`SSDT-ASRock-Z390-Z370-ITX-ac-TB3.aml`](/SSDTs/SSDT-ASRock-Z390-Z370-ITX-ac-TB3.aml)
+- [`SSDT-ASRock-Z490-ITX-ac-TB3.aml`](/SSDTs/SSDT-ASRock-Z490-ITX-ac-TB3.aml)
+- [`SSDT-ASUS-ThunderboltEX-3-TB3.aml`](/SSDTs/SSDT-ASUS-ThunderboltEX-3-TB3.aml)
+- [`SSDT-ASUS-Z490-ProArt-Creator-TB3.aml`](/SSDTs/SSDT-ASUS-Z490-ProArt-Creator-TB3.aml)
+- [`SSDT-Gigabyte-B550-Vision-D-TB3.aml`](/SSDTs/SSDT-Gigabyte-B550-Vision-D-TB3.aml)
+- [`SSDT-Gigabyte-Designare-X299X-10G-TB3.aml`](/SSDTs/SSDT-Gigabyte-Designare-X299X-10G-TB3.aml)
+- [`SSDT-Gigabyte-GC-Alpine-Ridge-TB3.aml`](/SSDTs/SSDT-Gigabyte-GC-Alpine-Ridge-TB3.aml)
+- [`SSDT-Gigabyte-GC-Titan-Ridge-v1-or-v2-TB3.aml`](/SSDTs/SSDT-Gigabyte-GC-Titan-Ridge-v1-or-v2-TB3.aml)
+- [`SSDT-Gigabyte-Z390-AORUS-Xtreme-TB3.aml`](/SSDTs/SSDT-Gigabyte-Z390-AORUS-Xtreme-TB3.aml)
+- [`SSDT-Gigabyte-Z490-Vision-D-TB3.aml`](/SSDTs/SSDT-Gigabyte-Z490-Vision-D-TB3.aml)
+- [`SSDT-Z390-DESIGNARE-TB3HP-V4.aml`](/SSDTs/SSDT-Z390-DESIGNARE-TB3HP-V4.aml)
 
 # How to choose the best PCIe card?
 
