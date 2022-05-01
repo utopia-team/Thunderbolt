@@ -1,4 +1,4 @@
-# Thunderbolt firmwares
+# Thunderbolt firmware
 
 Please note that the following repository is used for archiving purposes.
 The original post can be found [here](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-1640).
