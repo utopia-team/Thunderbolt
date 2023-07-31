@@ -54,3 +54,11 @@ If you satisfy this requirement, then proceed by:
 	- `GPIO Force PWR` = `On` 
 	 - Please note that if your card works with this option you don't need to follow the next step
 5. Jumping pins `3` and `5` as described [here](https://github.com/ameyrupji/thunderbolt-macpro-5-1/blob/master/GC-TitanRidge.md#connect-pin-3-and-pin-5-of-jumper-for-hot-swap-capability) if `GPIO Force PWR` doesn't work
+
+# What if I fucked the firmware and want to restore the stock one?
+
+You can either choose to reflash the stock firmware using the utility provided by your AIC vendor, or can use the following firmwares:
+
+###### Please note that the list is not complete. PRs are welcomed
+
+- [Titan Ridge 2.0 blue and green chip firmwares](/Firmwares/Original/Titan Ridge 2.0)
